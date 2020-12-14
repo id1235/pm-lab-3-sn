@@ -17,3 +17,7 @@ Grupa studencka: WEL18DES1
 Zadanie 3.2.2
 Pytanie: W jaki sposób można rozbudować funkcjonalność programu w przypadku gdy liczba naciśnięć przycisku przekroczy określoną ilość?
 Odpowiedź: Dzięki funkcji millis można rozbudować funkcjonalność programu.
+
+Zadanie 3.2.3
+Pytanie: W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
+Odpowiedź: 
