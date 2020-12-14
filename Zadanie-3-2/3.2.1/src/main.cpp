@@ -9,5 +9,5 @@ Serial.println("Witaj programisto!");
 
 void loop() {
  Serial.println(i);
-delay(2000);
+delay(2000); 
 }
