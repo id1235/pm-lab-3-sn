@@ -20,4 +20,4 @@ Odpowiedź: Po przekroczeniu pewnej liczby naciśnięć program powinien się re
 
 Zadanie 3.2.3
 Pytanie: W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
-Odpowiedź: Dzięki funkcji millis program może wykonywać wiele zadań jednocześnie.
+Odpowiedź: Dzięki funkcji millis program może wykonywać wiele zadań jednocześnie. 
